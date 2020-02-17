@@ -19,12 +19,12 @@ def monopoly_with_third_tier
     	    :key2 => 2,
     	    :key3 => 3,
     	    :key4 => 4,
-    	    :one_piece_owned => 25
     	  },
     	  :names =>{:key1 => 1,
     	    :key2 => 2,
     	    :key3 => 3,
-    	    :key4 => 4}
+    	    :key4 => 4},
+    	  :one_piece_owned => 25
     	}
     	}
   # When you start writing the implementation for this method, copy the Hash
